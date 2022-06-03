@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 option = (input ("Ingrese su nombre: "))
 
 if option == "Miguel Jimenez":
@@ -8,11 +10,11 @@ if option == "Angel Barros":
     #Insert code here
     print("")
 
+>>>>>>> 4d8fd2bbc01f7ad2e87a3613234bfed440cb4d4f
 option = (input ("Ingrese su nombre"))
 
-if option == "Virgilio Salgado":
+if option == "Deivid Guauña":
     #Insert code here
-    print("First Test")
     print("option")
 
 if option == "Jesus Gonzalez":
@@ -20,6 +22,8 @@ if option == "Jesus Gonzalez":
     print(name)
     print("El cambio en primera")
 
+<<<<<<< HEAD
+=======
 if option == "cheider":
     name = option.split()
     print(name)
@@ -34,3 +38,4 @@ if option == "Darwin Perez Perez":
 
 if option == "Nicolas Lanete":
     print("Hola2.0")
+>>>>>>> 4d8fd2bbc01f7ad2e87a3613234bfed440cb4d4f
