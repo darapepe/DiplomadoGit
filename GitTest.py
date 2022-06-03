@@ -1,11 +1,10 @@
-
 option = (input ("Ingrese su nombre: "))
 
 if option == "Miguel Jimenez":
     #Insert code here
     print("Opción 1")
 
-if option == "":
+if option == "Angel Barros":
     #Insert code here
     print("")
 
@@ -21,17 +20,6 @@ if option == "Jesus Gonzalez":
     print(name)
     print("El cambio en primera")
 
-if option == "Stiven bustamante":
-    def responseSuccess(results, message, row_total, title=None, statusCode=200):
-        return {
-            'success':True,
-            'title': title,
-            'message':message,
-            'results':results,
-            'rowTotal':row_total,
-            'status': statusCode
-        }
-
 if option == "cheider":
     name = option.split()
     print(name)
@@ -43,3 +31,6 @@ if option == "Yisel Saez":
 if option == "Darwin Perez Perez":
     #Insert code here
     print("Eres Darwin")
+
+if option == "Nicolas Lanete":
+    print("Hola2.0")
